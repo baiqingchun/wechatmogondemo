@@ -1,0 +1,11 @@
+.idea
+node_modules
+editing
+*.pyc
+*.log
+log
+nohup.out
+package-lock.json
+tmp.html
+
+gyro_pic
